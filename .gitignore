@@ -2,3 +2,5 @@ venv/
 __pycache__/
 .env
 logs/
+backend/token.json
+backend/credentials.json
