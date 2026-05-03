@@ -21,4 +21,3 @@ AI-powered Intelligent Automation System using UiPath + FastAPI
 
 🧪 Test:
 ✔ Email print ho terminal me
->>>>>>> a91ecaf (Update email_reader, Able to read email from mailbox & update readme file)
