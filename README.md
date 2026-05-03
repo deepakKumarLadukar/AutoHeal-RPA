@@ -20,4 +20,4 @@ AI-powered Intelligent Automation System using UiPath + FastAPI
 - Subject + body extract 
 
 🧪 Test:
-✔ Email print ho terminal me
+✔ Email print on terminal
